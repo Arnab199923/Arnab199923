@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/arnab-deb-b97b1721a/**
 
-- ⚡ Fun fact **normal people : hello, hi and developer people : hello world 😁**
+- ⚡ Fun fact **normal people : hello, hi but developer people : hello world 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
